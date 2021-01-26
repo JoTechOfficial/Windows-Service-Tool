@@ -3,4 +3,4 @@ A simple but affective tool to clean/update/fix Windows 10. Very light applicati
 
 Privacy Statement
 ---------
-JoTechComputer helper doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in windows.
+JoTechComputerHelper doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.

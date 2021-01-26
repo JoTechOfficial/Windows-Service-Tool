@@ -9,5 +9,6 @@ Current Issues To Look Out For
 ---------
 *This may or may not affect some users*. For some users this software will display a Windows warning when opened, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.
 
-Download Current Release here:
+Downloads
+---------
 [Click Here](https://github.com/JoBagOfDonuts/JoTechComputerHelper/releases/)

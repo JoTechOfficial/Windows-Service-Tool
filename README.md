@@ -4,3 +4,7 @@ A simple but affective tool to clean/update/fix Windows 10. Very light applicati
 Privacy Statement
 ---------
 JoTechComputerHelper doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.
+
+Current Issues To Look Out For
+---------
+For some users this software will have a Windows warning, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.

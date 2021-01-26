@@ -7,4 +7,4 @@ JoTechComputerHelper doesn't store any user information or send any files over t
 
 Current Issues To Look Out For
 ---------
-For some users this software will have a Windows warning, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.
+For some users this software will have a Windows warning when opened, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.

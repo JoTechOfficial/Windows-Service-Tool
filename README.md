@@ -5,6 +5,6 @@ Privacy Statement
 ---------
 JoTechComputerHelper doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.
 
-Current Issues To Look Out For
+Current Issues To Look Out For (May or may not do it)
 ---------
 For some users this software will have a Windows warning when opened, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.

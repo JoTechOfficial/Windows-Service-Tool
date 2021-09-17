@@ -7,7 +7,7 @@ Privacy Statement
 ---------
 Windows Service Doctor doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.
 
-Current Issues To Look Out For
+Windows Warning Popups
 ---------
 *This may or may not affect some users*. For some users this software will display a Windows warning when opened, *don't be alarmed*, this is completely normal with visual studio exe files. So it is completely safe to open.
 

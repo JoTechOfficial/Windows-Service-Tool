@@ -1,4 +1,4 @@
-# <img src="https://i.postimg.cc/4sTKZJZk/jtchlogohighres.png" width="35" height="35"> Windows Service Doctor
+# <img src="https://i.postimg.cc/4sTKZJZk/jtchlogohighres.png" width="30" height="30"> Windows Service Doctor
 A simple but affective tool to clean/update/fix Windows 10 and Windows 11. Very light application that can be put on flashdrives or kept on your system, and it also only uses a tiny bit of ram.
 
 <img src="https://i.postimg.cc/SxxsBNwB/windowsservicedoctor.jpg">

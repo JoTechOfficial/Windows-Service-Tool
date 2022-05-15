@@ -5,7 +5,7 @@ A simple but affective tool to clean/update/fix Windows 10 or Windows 11. Very l
 
 Privacy Statement
 ---------
-Windows Service Doctor doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.
+Windows Service Tool doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10.
 
 Windows Warning Popups
 ---------

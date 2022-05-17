@@ -5,7 +5,7 @@ A simple but affective tool to clean/update/fix Windows 10 or Windows 11. Very l
   <img src="https://i.postimg.cc/FHmhcc7Y/image.png" />
 </p>
 
-New System Tray With Menus | Windows StartUp Mode ______________________________________________________________
+New System Tray With Menus __________________________________________ | Windows StartUp Mode ________________________________________________
 :-------------------------:|:-------------------------:
 ![](https://i.postimg.cc/Gh6y1X7Z/image.png)  |  ![](https://i.postimg.cc/Y0ZhMS31/image.png)
 

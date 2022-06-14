@@ -2,7 +2,7 @@
 A simple but affective tool to clean/update/fix Windows 10 or Windows 11. Very light application that can be put on flashdrives or kept on your system, and uses a tiny bit of ram.
 
 <p align="center">
-  <img src="https://i.postimg.cc/kXpKv2rF/image.png" />
+  <img src="https://i.postimg.cc/8P4LzX8W/image.png" />
 </p>
 
 New System Tray With Menus __________________________________________ | Windows StartUp Mode ________________________________________________

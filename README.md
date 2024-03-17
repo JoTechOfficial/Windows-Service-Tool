@@ -11,7 +11,7 @@ New System Tray With Menus __________________________________________ | Windows 
 
 Privacy Statement
 ---------
-Windows Service Tool doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10/11.
+Windows Service Tool doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done within Windows 10/11.
 
 Windows Warning Popups
 ---------

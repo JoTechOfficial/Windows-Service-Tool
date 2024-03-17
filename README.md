@@ -2,7 +2,7 @@
 A simple but affective tool to clean/update/fix Windows 10 or Windows 11. Very light application that can be put on flashdrives or kept on your system, and uses a tiny bit of ram.
 
 <p align="center">
-  <img src="(https://jotechofficial.github.io/Windows-Service-Tool/Images(WST)/Screenshot%202024-03-17%20000149.png)" />
+  <img src="https://jotechofficial.github.io/Windows-Service-Tool/Images(WST)/Screenshot%202024-03-17%20000149.png" />
 </p>
 
 New System Tray With Menus __________________________________________ | Windows StartUp Mode ________________________________________________

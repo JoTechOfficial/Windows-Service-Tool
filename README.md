@@ -9,10 +9,6 @@ New System Tray With Menus __________________________________________ | Windows 
 :-------------------------:|:-------------------------:
 ![](https://jotechofficial.github.io/Windows-Service-Tool/Images(WST)/systemtray.png)  |  ![](https://jotechofficial.github.io/Windows-Service-Tool/Images(WST)/startupmode.png)
 
-Required (Only required for Windows 10)
----------
-Segoe Ui Font: https://aka.ms/segoeuifont
-
 Privacy Statement
 ---------
 Windows Service Tool doesn't store any user information or send any files over the internet. Everything that is done by this software is completely done in Windows 10/11.
